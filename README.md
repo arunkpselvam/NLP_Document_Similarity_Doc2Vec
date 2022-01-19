@@ -12,7 +12,7 @@ The data is organized into 20 different newsgroups, each corresponding to a diff
 comp.graphics comp.os.ms-windows.misc comp.sys.ibm.pc.hardware comp.sys.mac.hardware comp.windows.x rec.autos rec.motorcycles rec.sport.baseball rec.sport.hockey sci.crypt sci.electronics sci.med sci.space misc.forsale talk.politics.misc talk.politics.guns talk.politics.mideast talk.religion.misc alt.atheism soc.religion.christian
 
 ### Distribution:
-Classes: 20 Samples tota: 18846 Dimensionality: 1 Features: text
+Classes: 20 Samples total: 18846 Dimensionality: 1 Features: text
 
 ## Activity
 I have built a Document similarity (Doc2Vec) model which is capable of detecting similar documents from the available 20 categories. The output will be probability scores in descending order of accuracy.
